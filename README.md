@@ -1,2 +1,4 @@
 # ParkingLotProblem
-Requires shapely (pip install shapely) and pygame (pip install pygame)
+Requires shapely and pygame
+https://shapely.readthedocs.io/en/latest/index.html
+https://www.pygame.org/docs/
